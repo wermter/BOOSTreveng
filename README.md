@@ -41,7 +41,7 @@ starting their own projects and even also bringing their own BLE sniffers.
 - [Sebastian Raff](https://github.com/hobbyquaker)
 - [Helge Heß](https://github.com/helje5)
 
-They've created a [Slack group](https://join.slack.com/t/legoboost/shared_invite/MjMxNzYxMTIwNzM3LTE1MDM4MjU4NTEtNGQwNWQwNDk5NQ) where people can work together.
+They've created a [Slack group](https://join.slack.com/t/legoboost/shared_invite/enQtMzI3OTYxMTAxMzY1LTY5YmZiYmFkMzg0YzQyNTFhODNlOTE1OWJmMDYzOTJkZjRiMDUzOGEzMjIwZjhmMTQ2Y2U5YzFjNDQ0OTQ3ZDg) where people can work together.
 
 I probably should add more names here but things are going too fast for me to keep up so please forgive me.
 
